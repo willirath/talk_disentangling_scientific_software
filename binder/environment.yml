@@ -1,0 +1,13 @@
+name: disentangling-scisoft
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - dask
+  - distributed
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
